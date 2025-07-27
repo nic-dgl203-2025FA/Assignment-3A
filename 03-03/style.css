@@ -1,0 +1,48 @@
+
+h2 {
+  margin:0;
+  font-size:7em;
+  font-weight: 900;
+  text-align:center;
+}
+
+span:nth-child(2) {
+  margin-right:0.15em;
+}
+
+span:nth-child(3) {
+  margin-right:0.15em;
+}
+
+span:nth-child(4) {
+}
+
+span:nth-child(5) {
+}
+
+span:nth-child(6) {
+}
+
+span:nth-child(7) {
+}
+
+/* other styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@900&display=swap');
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+  background:#2c333a;
+  margin-top: 8rem;
+  display: flex;
+  justify-content: center;
+}
+
+span {
+    display:inline-block;
+     color:#77c6bc;
+}
+
+span:nth-child(2n) {
+  color:#95b8cb;
+}

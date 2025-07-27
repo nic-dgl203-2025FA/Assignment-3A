@@ -1,0 +1,24 @@
+.sticker {
+  animation: rotate 10s linear infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* other styles */
+body {
+  display: flex;
+  justify-content: center;
+  margin-top:10em;
+  background:#ce2d4f;
+}
+
+img {
+  width:200px;
+}

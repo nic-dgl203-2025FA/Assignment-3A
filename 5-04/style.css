@@ -1,0 +1,13 @@
+h1 {
+  font-family: 'Recursive', "Times New Roman";
+  font-size: 10rem;
+}
+
+body {
+  background: #433f55;
+  color: white;
+  padding-top: 8rem;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}

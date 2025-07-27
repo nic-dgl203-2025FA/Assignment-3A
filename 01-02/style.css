@@ -1,0 +1,21 @@
+
+body {
+  display: flex;
+  justify-content: center;
+  margin-top:3em;
+  background-color: #6F7295;
+}
+
+.robot {
+
+}
+
+.wrap {
+  width: 100%;
+}
+
+img {width: 300px;}
+
+
+
+
